@@ -1,0 +1,2 @@
+# antimail
+Fake SMTP server
